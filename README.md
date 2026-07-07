@@ -1,13 +1,22 @@
 # Refactoring Nested Controllers
 
-This project demonstrates how to refactor a backend router with nested conditional statements into a clean modular class-based architecture.
+## Objective
+Refactor a bloated nested-conditional backend router into a modular class-based system.
+
+## Files
+- Main.java
+- Router.java
+- AdminController.java
+- UserController.java
 
 ## Features
+- Modular routing
+- Class-based controllers
+- Cleaner code structure
+- Easy maintenance
 
-- User Controller
-- Admin Controller
-- Modular Router
-- Clean Code Structure
-
-Software Engineering Internship - Day 2
-Project completed as part of Software Engineering Internship Day 2.
+## Git Workflow
+- Initial commit
+- Feature branch
+- Merge into main
+- Version tag v1.0.0
